@@ -5,7 +5,7 @@ int main(){
 	int n1, n2, som, sub, mul, div;
 	
 	printf("Calculadora simples\n");
-	printf("Digite os 2 numeors a serem resolvidos: ");
+	printf("Digite os 2 numeros a serem resolvidos: ");
 	scanf("%i%i", &n1, &n2);
 	
 	som = n1 + n2;
